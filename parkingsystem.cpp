@@ -2,6 +2,8 @@
 using namespace std;
 void name_input_funtion(){
   string name;
+  int name;
+  cin>>age;
   cin>>name;
 }
 int main(){
